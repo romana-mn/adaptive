@@ -380,7 +380,7 @@ body{
     top:20px;
     right:20px;
   }
-  .btn-burger svg {
+  .btn-burger svg * {
     fill: #fff;
   }
   .logo {
